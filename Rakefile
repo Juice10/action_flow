@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "action_flow"
   gem.homepage = "http://github.com/juice10/action_flow"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{ActionFlow provides a simple way to model multi-step processes such as wizards, sign-up flows, checkout processes in Rails. }
+  gem.description = %Q{ActionFlow provides a simple way to model multi-step processes such as wizards, sign-up flows, checkout processes and the like in Rails. It allows sequences to be easily composed and reordered, as well as letting you alter the behaviour and appearance of pages based on which flow they have been accessed through.}
   gem.email = "justin@juice10.com"
   gem.authors = ["Justin Halsall"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
