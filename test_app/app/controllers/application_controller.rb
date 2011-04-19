@@ -1,6 +1,6 @@
 class ApplicationController < ActionController::Base
-  
-  include ActionFlow::Filters
-  
-end
 
+  include ActionFlow::Filters
+
+  protect_from_forgery
+end
