@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "action_flow.gemspec",
     "init.rb",
     "install.rb",
     "lib/action_flow.rb",
