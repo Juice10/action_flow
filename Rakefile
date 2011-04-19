@@ -12,7 +12,7 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "action_flow"
+  gem.name = "juice10-action_flow"
   gem.homepage = "http://github.com/juice10/action_flow"
   gem.license = "MIT"
   gem.summary = %Q{ActionFlow provides a simple way to model multi-step processes such as wizards, sign-up flows, checkout processes in Rails. }
