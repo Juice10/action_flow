@@ -40,3 +40,8 @@ pkg
 #
 # For vim:
 #*.swp
+
+# For test app
+*.log
+*.db
+
