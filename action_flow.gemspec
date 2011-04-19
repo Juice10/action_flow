@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Justin Halsall"]
   s.date = %q{2011-04-19}
-  s.description = %q{TODO: longer description of your gem}
+  s.description = %q{ActionFlow provides a simple way to model multi-step processes such as wizards, sign-up flows, checkout processes and the like in Rails. It allows sequences to be easily composed and reordered, as well as letting you alter the behaviour and appearance of pages based on which flow they have been accessed through.}
   s.email = %q{justin@juice10.com}
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -119,7 +119,7 @@ Gem::Specification.new do |s|
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.5.2}
-  s.summary = %q{TODO: one-line summary of your gem}
+  s.summary = %q{ActionFlow provides a simple way to model multi-step processes such as wizards, sign-up flows, checkout processes in Rails.}
   s.test_files = [
     "test/helper.rb",
     "test/test_action_flow.rb"
